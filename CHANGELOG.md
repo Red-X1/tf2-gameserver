@@ -1,5 +1,89 @@
 # Changelog
 
+## [2.0.62](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.61...2.0.62) (2025-08-15)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.8.10 ([a7b4745](https://github.com/tf2pickup-org/tf2-gameserver/commit/a7b47454fdf7cfef226503ec13a480428c671fc2))
+
+## [2.0.61](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.60...2.0.61) (2025-08-06)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.8.8 ([4f18def](https://github.com/tf2pickup-org/tf2-gameserver/commit/4f18def8c88596c694eee1d438998763b229ceb6))
+
+## [2.0.60](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.59...2.0.60) (2025-08-06)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.8.7 ([9673e75](https://github.com/tf2pickup-org/tf2-gameserver/commit/9673e7573bcb0f3e65962daa1e7babc49eecd6f3))
+
+## [2.0.59](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.58...2.0.59) (2025-08-02)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.8.6 ([fe6444d](https://github.com/tf2pickup-org/tf2-gameserver/commit/fe6444dc98b766f716076287702d004beb01bdba))
+
+## [2.0.58](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.57...2.0.58) (2025-07-31)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.8.5 ([5784095](https://github.com/tf2pickup-org/tf2-gameserver/commit/57840958444a60f1a275de98cbdd18f0da8647d0))
+
+## [2.0.57](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.56...2.0.57) (2025-07-26)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.8.4 ([d27328c](https://github.com/tf2pickup-org/tf2-gameserver/commit/d27328c421cc94e8ebd2ad97c9feaf90baddfb8c))
+
+## [2.0.56](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.55...2.0.56) (2025-07-26)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.8.3 ([099dbc0](https://github.com/tf2pickup-org/tf2-gameserver/commit/099dbc077ef7a0994d36f8a5f8b88825e8579bc3))
+
+## [2.0.55](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.54...2.0.55) (2025-07-25)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.8.2 ([02e28f8](https://github.com/tf2pickup-org/tf2-gameserver/commit/02e28f810e10ca5049627f53f8c43f94637b0892))
+
+## [2.0.54](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.53...2.0.54) (2025-07-22)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.8.1 ([374dd63](https://github.com/tf2pickup-org/tf2-gameserver/commit/374dd63c6963fc5c8c7393899f3184d16e87281d))
+
+## [2.0.53](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.52...2.0.53) (2025-07-09)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.8.0 ([cdbde65](https://github.com/tf2pickup-org/tf2-gameserver/commit/cdbde65b834e5d5e83fd76cc811fc2e54ca072e6))
+
+## [2.0.52](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.51...2.0.52) (2025-07-08)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.7.1 ([3aed537](https://github.com/tf2pickup-org/tf2-gameserver/commit/3aed537d82aed3db17f6b9c790640a5ce8db0ec7))
+
+## [2.0.51](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.50...2.0.51) (2025-07-01)
+
+
+### Bug Fixes
+
+* **deps:** update tf2-competitive version to 3.7.0 ([ae2b41c](https://github.com/tf2pickup-org/tf2-gameserver/commit/ae2b41ccced153d04185214b4c65db8b89fa8dbe))
+
 ## [2.0.50](https://github.com/tf2pickup-org/tf2-gameserver/compare/2.0.49...2.0.50) (2025-06-03)
 
 
