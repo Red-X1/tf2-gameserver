@@ -1,6 +1,6 @@
 ARG REGISTRY=ghcr.io
 ARG TF2_COMPETITIVE_VERSION=3.8.10
-ARG USER=tf2
+ARG USER=container
 ARG HOME=/home/$USER
 FROM ${REGISTRY}/melkortf/tf2-competitive:${TF2_COMPETITIVE_VERSION}
 LABEL maintainer="garrappachc@gmail.com"
